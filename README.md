@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DiogoPintoSantos<br>🔭 I’m currently working on finishing my masters degree<br>👀 I’m interested in Robotics, Eletronics and Programming
+👋 Hi, I’m DiogoPintoSantos<br>🔭 I’m currently working on finishing my masters degree<br>👀 I’m interested in Robotics, Eletronics and Programming
 
 
 # 💻 Tech Stack:
